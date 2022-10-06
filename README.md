@@ -1,2 +1,6 @@
-# revanced-wiki
-ReVanced wiki as canny wanted
+# ReVanced Wiki
+
+* Guide for an extensible framework for
+building application mods.
+
+
