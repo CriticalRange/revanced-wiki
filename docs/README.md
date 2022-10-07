@@ -1,1 +1,3 @@
-# Hello VuePress
+# ReVanced Wiki
+
+* Welcome to wiki
